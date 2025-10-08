@@ -1,0 +1,212 @@
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.Development.json
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.json
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.exe
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.deps.json
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.json
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.dev.json
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ref\ApiRest.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.pdb
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csprojAssemblyReference.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfoInputs.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfo.cs
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CoreCompileInputs.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cs
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Manifest.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.xml
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\scopedcss\bundle\ApiRest.styles.css
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.RazorTargetAssemblyInfo.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CopyComplete
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ref\ApiRest.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.pdb
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.genruntimeconfig.cache
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\nlog.config
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\NLog.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Videos\Ejemplos codigo\ApiRest\ApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\nlog.config
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.json
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.StaticWebAssets.xml
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.exe
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.deps.json
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.json
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.dev.json
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.pdb
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\NLog.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.AssemblyReference.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfoInputs.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfo.cs
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CoreCompileInputs.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\scopedcss\bundle\ApiRest.styles.css
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Manifest.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Pack.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.ApiRest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRest.props
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRest.props
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRest.props
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CopyComplete
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\refint\ApiRest.dll
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.pdb
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.genruntimeconfig.cache
+C:\Users\galvarado\Desktop\ApiRest\ApiRest\obj\Debug\net5.0\ref\ApiRest.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\nlog.config
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.json
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.StaticWebAssets.xml
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.exe
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.deps.json
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.json
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.dev.json
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.pdb
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\NLog.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\desarrollo\web\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.AssemblyReference.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfoInputs.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfo.cs
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CoreCompileInputs.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\scopedcss\bundle\ApiRest.styles.css
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Manifest.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Pack.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.ApiRest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRest.props
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRest.props
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRest.props
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.RazorTargetAssemblyInfo.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CopyComplete
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.dll
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\refint\ApiRest.dll
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.pdb
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.genruntimeconfig.cache
+C:\desarrollo\web\ApiRest\ApiRest\obj\Debug\net5.0\ref\ApiRest.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\nlog.config
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\appsettings.json
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.StaticWebAssets.xml
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.exe
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.deps.json
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.json
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.runtimeconfig.dev.json
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\ApiRest.pdb
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\NLog.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.AssemblyReference.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfoInputs.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.AssemblyInfo.cs
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.CoreCompileInputs.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.RazorTargetAssemblyInfo.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\scopedcss\bundle\ApiRest.styles.css
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Manifest.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\ApiRest.StaticWebAssets.Pack.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.ApiRest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRest.props
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRest.props
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRest.props
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.csproj.Up2Date
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\refint\ApiRest.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.pdb
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ApiRest.genruntimeconfig.cache
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\obj\Debug\net5.0\ref\ApiRest.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Xml.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\RestSharp.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.Federation.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\System.Text.Json.dll
+C:\desarrollo\web\Api-Rest\ApiRest\ApiRest\bin\Debug\net5.0\Newtonsoft.Json.dll

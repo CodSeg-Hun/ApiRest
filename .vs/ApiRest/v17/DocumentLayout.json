@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\controllers\\conecelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\conecelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\clases\\conexionconecel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\clases\\conexionconecel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\clases\\consultadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\clases\\consultadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\dto\\notifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\dto\\notifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\modelo\\serviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\modelo\\serviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\modelo\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\modelo\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\dto\\eventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\dto\\eventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\modelo\\service_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\modelo\\service_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\modelo\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\modelo\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\dto\\notifyinstalaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\dto\\notifyinstalaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\dto\\ordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\dto\\ordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\clases\\oauthbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\clases\\oauthbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\clases\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\clases\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\modelo\\eventonotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\modelo\\eventonotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConecelController.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\ConecelController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\ConecelController.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\ConecelController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\ConecelController.cs",
+              "ViewState": "AgIAACsCAAAAAAAAAAAAADgCAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:24:08.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "evento.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\evento.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Modelo\\evento.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\evento.cs",
+              "RelativeToolTip": "ApiRest\\Modelo\\evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:20:41.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceOrder.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\serviceOrder.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Modelo\\serviceOrder.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\serviceOrder.cs",
+              "RelativeToolTip": "ApiRest\\Modelo\\serviceOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:17:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\conexion.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Clases\\conexion.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\conexion.cs",
+              "RelativeToolTip": "ApiRest\\Clases\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:21:51.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaDB.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\ConsultaDB.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Clases\\ConsultaDB.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\ConsultaDB.cs",
+              "RelativeToolTip": "ApiRest\\Clases\\ConsultaDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:40:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiRest\\appsettings.json",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\appsettings.json",
+              "RelativeToolTip": "ApiRest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T13:32:29.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotifyDTO.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\NotifyDTO.cs",
+              "RelativeDocumentMoniker": "ApiRest\\DTO\\NotifyDTO.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\NotifyDTO.cs",
+              "RelativeToolTip": "ApiRest\\DTO\\NotifyDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:05:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\Events.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Modelo\\Events.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\Events.cs",
+              "RelativeToolTip": "ApiRest\\Modelo\\Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:22:44.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotifyInstalacionDTO.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\NotifyInstalacionDTO.cs",
+              "RelativeDocumentMoniker": "ApiRest\\DTO\\NotifyInstalacionDTO.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\NotifyInstalacionDTO.cs",
+              "RelativeToolTip": "ApiRest\\DTO\\NotifyInstalacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:18:01.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventoDTO.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\EventoDTO.cs",
+              "RelativeDocumentMoniker": "ApiRest\\DTO\\EventoDTO.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\EventoDTO.cs",
+              "RelativeToolTip": "ApiRest\\DTO\\EventoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:55:14.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdenDTO.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\OrdenDTO.cs",
+              "RelativeDocumentMoniker": "ApiRest\\DTO\\OrdenDTO.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\OrdenDTO.cs",
+              "RelativeToolTip": "ApiRest\\DTO\\OrdenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:44:24.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexionconecel.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\Conexionconecel.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Clases\\Conexionconecel.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\Conexionconecel.cs",
+              "RelativeToolTip": "ApiRest\\Clases\\Conexionconecel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:59:12.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service_Order.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\Service_Order.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Modelo\\Service_Order.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\Service_Order.cs",
+              "RelativeToolTip": "ApiRest\\Modelo\\Service_Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:23:48.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OAuthBase.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\OAuthBase.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Clases\\OAuthBase.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\OAuthBase.cs",
+              "RelativeToolTip": "ApiRest\\Clases\\OAuthBase.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAAM0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:33:09.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiRest\\appsettings.Development.json",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\appsettings.Development.json",
+              "RelativeToolTip": "ApiRest\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T16:24:01.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:04:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "ApiRest\\DTO\\ReservationDTO.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\DTO\\ReservationDTO.cs",
+              "RelativeToolTip": "ApiRest\\DTO\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:59:28.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Startup.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Startup.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Startup.cs",
+              "RelativeToolTip": "ApiRest\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:33:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "funciones.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\funciones.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Clases\\funciones.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\funciones.cs",
+              "RelativeToolTip": "ApiRest\\Clases\\funciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:43:31.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "eventonotificacion.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\eventonotificacion.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Modelo\\eventonotificacion.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Modelo\\eventonotificacion.cs",
+              "RelativeToolTip": "ApiRest\\Modelo\\eventonotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:17:45.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Program.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Program.cs",
+              "RelativeToolTip": "ApiRest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:33:28.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
