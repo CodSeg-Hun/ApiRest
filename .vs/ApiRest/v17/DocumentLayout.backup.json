@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\controllers\\conecelflotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\conecelflotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\controllers\\conecelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\conecelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|c:\\desarrollo\\web\\api-rest\\apirest\\apirest\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6E4ED-FDEF-4F7B-AAAB-CFAF4E9788C1}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\conexion.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Clases\\conexion.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Clases\\conexion.cs",
+              "RelativeToolTip": "ApiRest\\Clases\\conexion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:45:43.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConecelController.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\ConecelController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\ConecelController.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\ConecelController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\ConecelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T22:23:08.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConecelFlotaController.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\ConecelFlotaController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\ConecelFlotaController.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiRest\\ApiRest\\Controllers\\ConecelFlotaController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\ConecelFlotaController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T17:06:32.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
